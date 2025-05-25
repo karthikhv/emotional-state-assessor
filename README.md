@@ -32,9 +32,7 @@ The Emotional State Assessor is a user-friendly tool designed to give you insigh
 3. Click **"Assess My Emotion"** to see your result.
 4. Feeling curious? Click **"Start New Assessment"** to try again!
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=App+Screenshot+Coming+Soon" alt="App Screenshot" width="600"/>
-</p>
+
 
 ---
 
