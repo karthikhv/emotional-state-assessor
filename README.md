@@ -5,7 +5,7 @@
 Welcome to the **Emotional State Assessor**, a free and public web app that helps you understand your emotional well-being in just a few minutes! Answer 10 simple questions, and our machine learning model will provide a personalized assessment of your emotional state—whether you're feeling Happy 😊, Normal 😐, or Sad 😔.
 
 <p align="center">
-  <a href="https://your-app-name.streamlit.app">
+  <a href="https://happyorsad.streamlit.app/">
     <img src="https://img.shields.io/badge/Try%20It%20Now-Live%20Demo-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo" />
   </a>
 </p>
